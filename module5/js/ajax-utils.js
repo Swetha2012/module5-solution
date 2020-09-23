@@ -64,3 +64,5 @@ global.$ajaxUtils = ajaxUtils;
 
 
 })(window);
+
+Width: 1366
